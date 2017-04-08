@@ -1,0 +1,18 @@
+html {background-color: #191970}
+header {font-family: Futura;
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;}
+h1 {color: #800000;}
+h2 {color: #800000;
+border-bottom: 1px dashed #C0C0C0;
+padding-bottom: 20px;}
+body {width: 80%;
+text-align: center;
+font-family: Palatino;
+background-color: white;}
+p{text-indent: 20px;}
+main {text-align: justify;
+padding: 50px 50px 50px 50px}
+blockquote {text-align: center;}
+footer {color: #800000;}
